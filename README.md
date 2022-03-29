@@ -4,7 +4,6 @@
 <img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
 
 ### Bronson Bagwell 
-- A data analyst enthusiast.
 - Currently working on several personal projects in order to become more proficient in essential data analysis and science tools.
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
