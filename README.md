@@ -7,7 +7,6 @@
 - Currently working on several personal projects in order to become more proficient in essential data analysis and science tools.
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=BronsonBagwell)
 
 ### Reach me
 
