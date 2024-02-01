@@ -4,7 +4,7 @@
 <img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
 
 ### Bronson Bagwell 
-- Currently working on several personal projects in order to become more proficient in essential data analysis and science tools.
+- Here you can find some of my personal/School projects I have completed to become more proficient in essential data analysis and science tools.
 
 
 
